@@ -26,11 +26,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse README</b></h3>
 
 </div>
 
@@ -60,11 +56,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="hello-microverse-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[hello-microverse-project]** is a required simple HTML coding exercise whose goal is to countercheck if I have mastered all of the tools and best practices that I have learnt in the previous steps which I will be using them in all Microverse projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
